@@ -1,4 +1,4 @@
 """
-This is the presentation of the module
+module
 """
 from . import translator
